@@ -7,3 +7,5 @@ yfinance
 pandas
 pandas-ta
 requests
+setuptools
+
